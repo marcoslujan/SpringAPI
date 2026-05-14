@@ -1,0 +1,5 @@
+com\dam\SpringAPI\repository\UsuarioRepository.class
+com\dam\SpringAPI\service\UsuarioService.class
+com\dam\SpringAPI\model\Usuario.class
+com\dam\SpringAPI\controller\UsuarioController.class
+com\dam\SpringAPI\SpringApiApplication.class
